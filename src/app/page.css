@@ -1,0 +1,33 @@
+.article-card-header {
+  font-size: 50px;
+  text-transform: capitalize;
+  margin: 25px 0px;
+  font-weight: bold;
+  color: #333;
+  border-left: #e4e4e7 14px solid;
+  padding-left: 15px;
+}
+
+.intro-paragraph {
+  font-size: 25px;
+  margin-bottom: 20px;
+  padding-left: 25px;
+}
+
+.social-media-icons {
+  display: flex;
+  gap: 10px;
+  padding-left: 15px;
+}
+
+.social-media-icons img {
+  width: 50px; /* Adjust as needed */
+  height: 50px; /* Adjust as needed */
+  padding-left: 15px;
+}
+.avatar {
+  width: 100x; /* Adjust the size of the avatar as needed */
+  height: 100px; /* Adjust the size of the avatar as needed */
+  border-radius: 100%; /* Makes the avatar circular */
+  margin-right: 10px; /* Add some margin to separate the avatar from the text */
+}
